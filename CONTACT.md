@@ -6,9 +6,9 @@
 
 ```markdown
 howiehu  | Hao Hu | https://github.com/howiehu
-xiebixa|https://github.com/beibeipk
 
 ## 北京2015女生训练营第一期
 
 Full Name | GitHub Link 
-Li Jingyuan | https://github.com/julieljy
+LiJingyuan| https://github.com/julieljy
+xie bixia | https://github.com/beibeipk
