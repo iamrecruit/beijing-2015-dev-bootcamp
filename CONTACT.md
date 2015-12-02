@@ -6,7 +6,7 @@
 
 ```markdown
 howiehu  | Hao Hu | https://github.com/howiehu
-```
+xiebixa|https://github.com/beibeipk
 
 ## 北京2015女生训练营第一期
 
