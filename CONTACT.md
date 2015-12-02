@@ -11,5 +11,4 @@ xiebixa|https://github.com/beibeipk
 ## 北京2015女生训练营第一期
 
 Full Name | GitHub Link 
---------- | -----------
-Li Jingyuan  https://github.com/julieljy
+Li Jingyuan | https://github.com/julieljy
