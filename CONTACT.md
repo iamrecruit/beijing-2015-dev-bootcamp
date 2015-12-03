@@ -20,3 +20,4 @@ Tong Jian     | https://github.com/jtong
 liu  jia      | https://github.com/jtong
 liu jia ssh   | https://github.com/jtong
 jiangzhaofeng | https://github.com/jzf1
+Qian Xin ssh  | https://github.com/code1945
